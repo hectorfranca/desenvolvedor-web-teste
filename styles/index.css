@@ -64,7 +64,7 @@ body {
     border: 1px #A6431F solid;
     border-radius: 5px;
     gap: 20px;
-    background-color: #F2E6D8;
+    background-color: white;
 }
 .card__image img {
     width: 200px;
